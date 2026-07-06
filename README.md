@@ -15,11 +15,7 @@
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
 </p>
 
-Bienvenue sur mon portfolio.Je suis actuellement en reconversion professionnelle vers le **Data Engineering**.
-
-Au cours de ma formation, j'ai réalisé **douze projets** couvrant l'ensemble du cycle de vie de la donnée. Ce portfolio met en avant **trois projets représentatifs**, illustrant différentes problématiques de **Data Engineering** : migration de données, intelligence artificielle générative et conception d'une plateforme de données de bout en bout.
-
-Vous y découvrirez les architectures mises en œuvre, les choix techniques réalisés ainsi que les technologies utilisées.
+Actuellement en reconversion professionnelle vers le **Data Engineering**, j'ai réalisé **douze projets** couvrant l'ensemble du cycle de vie de la donnée. Ce portfolio met en avant **trois projets représentatifs**, illustrant différentes problématiques de **Data Engineering** : migration de données, intelligence artificielle générative et déploiement d'une solution ETL.
 
 #  A propos de moi
 
