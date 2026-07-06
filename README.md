@@ -17,7 +17,8 @@
 
 Actuellement en reconversion professionnelle vers le **Data Engineering**, j'ai réalisé **douze projets** couvrant l'ensemble du cycle de vie de la donnée. Ce portfolio met en avant **trois projets représentatifs**, illustrant différentes problématiques de **Data Engineering** : migration de données, intelligence artificielle générative et déploiement d'une solution ETL.
 
-#  A propos de moi
+---
+# A propos de moi
 
 [Docteur en physique](https://www.researchgate.net/profile/Hishem-Hyani-2) spécialisé dans la modélisation de phénomène électromagnétique, j'ai plus de 12 années d'expérience, dont 7 ans en recherche et développement (R&D) et 5 ans dans l'enseignement secondaire et supérieur.
 
@@ -25,6 +26,7 @@ Ces expériences m'ont permis de développer de solides compétences en analyse,
 
 Aujourd'hui, je mets ces compétences au service du Data Engineering, en concevant des solutions robustes pour la collecte, le traitement, le stockage et la valorisation des données. Ma formation m'a permis d'acquérir une expertise sur l'ensemble de la chaîne de traitement de la donnée, depuis les pipelines ETL jusqu'aux architectures cloud, en passant par l'orchestration, les bases de données, l'observabilité et les solutions d'intelligence artificielle.
 
+---
 # Projets
 
 ##  [DataSoluTech — Migration de données médicales](https://github.com/hyhishem/DataSoluTech_health_data_migration)
