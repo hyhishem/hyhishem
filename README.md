@@ -28,7 +28,7 @@ Aujourd'hui, je mets ces compétences au service du Data Engineering, en conceva
 ---
 # Projets
 
-##  [DataSoluTech — Migration de données médicales](https://github.com/hyhishem/DataSoluTech_health_data_migration)
+##  [Migration de données médicales](https://github.com/hyhishem/DataSoluTech_health_data_migration)
 
 **Objectif**
 
@@ -52,7 +52,7 @@ Concevoir une solution permettant de nettoyer, transformer et migrer des donnée
 
 ---
 
-## [PulsEvents — Système RAG de recommandation d'évènements](https://github.com/hyhishem/PulsEvents_p10)
+## [Système RAG de recommandation d'évènements](https://github.com/hyhishem/PulsEvents_p10)
 
 **Objectif**
 
@@ -78,7 +78,7 @@ Développer un système de recommandation d'évènements culturels basé sur une
 
 ---
 
-##  [Sport Data Solution — Plateforme Data Engineering](https://github.com/hyhishem/P12_POC_Sport_Data_Solution-)
+##  [Plateforme Data Engineering](https://github.com/hyhishem/P12_POC_Sport_Data_Solution-)
 
 **Objectif**
 
